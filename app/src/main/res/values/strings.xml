@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemperatureCalculator</string>
+    <string name="select_a_temperature_unit_to_convert">Select a Temperature Unit to convert</string>
+    <string name="convert">Convert:</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="ok">OK</string>
+    <string name="to_fahrenheit">To Fahrenheit</string>
+    <string name="to_celsius">to Celsius</string>
+</resources>
